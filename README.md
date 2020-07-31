@@ -52,3 +52,15 @@ This repository will combine all projects and certificates in one place.
 | Treemap Diagram               |  |  |  |
 |||||
 | [Certificate](https://raw.githubusercontent.com/ionescuig/freecodecamp-projects-and-certificates/master/Data%20Visualization/freeCode%20Camp%20Certificate%20Data%20Visualization.png) ||||
+
+
+ ### APIs and Microservices
+| Project Name                  | Live Project                                         | Code                                                | Technologies |
+| :---                          | :--                                                  | :---                                                | :---         |
+| Timestamp Microservice        |  |  |  |
+| Request Header Parser Microservice             |  |  |  |
+| URL Shortener Microservice    |  |  |  |
+| Exercise Tracker                |  |  |  |
+| File Metadata Microservice               |  |  |  |
+|||||
+| [Certificate](https://raw.githubusercontent.com/ionescuig/freecodecamp-projects-and-certificates/master/APIs%20and%20Microservices/freeCodeCamp%20Certificate%20APIs%20and%20Microservices.png) ||||
