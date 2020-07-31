@@ -10,10 +10,10 @@ This repository will combine all projects and certificates in one place.
 | Project Name                  | Live Project                                         | Code                                                | Technologies |
 | :---                          | :--                                                  | :---                                                | :---         |
 | Tribute Page                  | [CodePen](https://codepen.io/ionescuig/full/RwWooEZ) | [CodePen](https://codepen.io/ionescuig/pen/RwWooEZ) | *html, css*  |
-| Survey Form                   |  |  |  |
-| Product Landing Page          |  |  |  |
-| Technical Documentation Page  |  |  |  |
-| Personal Portfolio Webpage    |  |  |  |
+| Survey Form                   | [CodePen](https://codepen.io/ionescuig/full/MWaJKeJ) | [CodePen](https://codepen.io/ionescuig/pen/MWaJKeJ) | *html, css*  |
+| Product Landing Page          | [CodePen](https://codepen.io/ionescuig/full/XWmMgvK) | [CodePen](https://codepen.io/ionescuig/pen/XWmMgvK) | *html, css*  |
+| Technical Documentation Page  | [CodePen](https://codepen.io/ionescuig/full/GRpmbzv) | [CodePen](https://codepen.io/ionescuig/pen/GRpmbzv) | *html, css*  |
+| Personal Portfolio Webpage    | [CodePen](https://codepen.io/ionescuig/full/abvwOVG) | [CodePen](https://codepen.io/ionescuig/pen/abvwOVG) | *html, css*  |
 |||||
 | [Certificate](https://raw.githubusercontent.com/ionescuig/freecodecamp-projects-and-certificates/master/Responsive%20Web%20Design/freeCodeCamp%20Certificate%20Responsive%20Web%20Design.png) ||||
 
