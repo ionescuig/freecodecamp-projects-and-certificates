@@ -55,12 +55,24 @@ This repository will combine all projects and certificates in one place.
 
 
  ### APIs and Microservices
-| Project Name                  | Live Project                                         | Code                                                | Technologies |
-| :---                          | :--                                                  | :---                                                | :---         |
-| Timestamp Microservice        |  |  |  |
-| Request Header Parser Microservice             |  |  |  |
-| URL Shortener Microservice    |  |  |  |
-| Exercise Tracker                |  |  |  |
-| File Metadata Microservice               |  |  |  |
+| Project Name                       | Live Project                                         | Code                                                | Technologies |
+| :---                               | :--                                                  | :---                                                | :---         |
+| Timestamp Microservice             |  |  |  |
+| Request Header Parser Microservice |  |  |  |
+| URL Shortener Microservice         |  |  |  |
+| Exercise Tracker                   |  |  |  |
+| File Metadata Microservice         |  |  |  |
 |||||
 | [Certificate](https://raw.githubusercontent.com/ionescuig/freecodecamp-projects-and-certificates/master/APIs%20and%20Microservices/freeCodeCamp%20Certificate%20APIs%20and%20Microservices.png) ||||
+
+
+ ### Quality Assurance
+| Project Name                  | Live Project                                         | Code                                                | Technologies |
+| :---                          | :--                                                  | :---                                                | :---         |
+| Metric-Imperial Converter     |  |  |  |
+| Issue Tracker                 |  |  |  |
+| Personal Library              |  |  |  |
+| Sudoku Solver                 |  |  |  |
+| American British Translator   |  |  |  |
+|||||
+| [Certificate](https://raw.githubusercontent.com/ionescuig/freecodecamp-projects-and-certificates/master/Quality%20Assurance/freecodecamp%20Certificate%20Quality%20Assurance.png) ||||
