@@ -1,10 +1,12 @@
-# freecodecamp-projects-and-certificates
+# FreeCodeCamp - Projects and Certificates
+This repository will combine all projects and certificates in one place.
+
+<br>
 
 *work in progress...*
 
-This repository will combine all projects and certificates in one place.
-
----
+<hr>
+<br>
 
  ### Responsive Web Design
 | Project Name                  | Live Project                                         | Code                                                | Technologies |
