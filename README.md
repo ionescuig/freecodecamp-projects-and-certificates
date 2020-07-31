@@ -40,3 +40,15 @@ This repository will combine all projects and certificates in one place.
 | Pomodoro Clock                |  |  |  |
 |||||
 | [Certificate](https://raw.githubusercontent.com/ionescuig/freecodecamp-projects-and-certificates/master/Front%20End%20Libraries/freecodecamp%20Certificate%20Front%20End%20Libraries.png) ||||
+
+
+ ### Data Visualization
+| Project Name                  | Live Project                                         | Code                                                | Technologies |
+| :---                          | :--                                                  | :---                                                | :---         |
+| Bar Chart                     |  |  |  |
+| Scatterplot Graph             |  |  |  |
+| Heat Map                      |  |  |  |
+| Choropleth Map                |  |  |  |
+| Treemap Diagram               |  |  |  |
+|||||
+| [Certificate](https://raw.githubusercontent.com/ionescuig/freecodecamp-projects-and-certificates/master/Data%20Visualization/freeCode%20Camp%20Certificate%20Data%20Visualization.png) ||||
