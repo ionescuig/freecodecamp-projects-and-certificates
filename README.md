@@ -21,7 +21,7 @@ This repository will combine all projects and certificates in one place.
 
  ### JavaScript Algorithms and Data Structures
 | Project Name                  | Code                                                | Technologies |
-| :---                          | :--                                                  | :---                                                | :---         |
+| :---                          | :---                                                | :---         |
 | Palindrome Checker            | [GitHub](https://github.com/ionescuig/freecodecamp-projects-and-certificates/blob/master/JavaScript%20Algorithms%20and%20Data%20Structures/palindrome.js) | javascript |
 | Roman Numeral Converter       | [GitHub](https://github.com/ionescuig/freecodecamp-projects-and-certificates/blob/master/JavaScript%20Algorithms%20and%20Data%20Structures/roman_numeral_converter.js) | javascript |
 | Caesars Cipher                | [GitHub](https://github.com/ionescuig/freecodecamp-projects-and-certificates/blob/master/JavaScript%20Algorithms%20and%20Data%20Structures/caesars_cipher.js) | javascript |
