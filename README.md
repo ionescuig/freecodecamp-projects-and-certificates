@@ -20,13 +20,13 @@ This repository will combine all projects and certificates in one place.
 
 
  ### JavaScript Algorithms and Data Structures
-| Project Name                  | Live Project                                         | Code                                                | Technologies |
+| Project Name                  | Code                                                | Technologies |
 | :---                          | :--                                                  | :---                                                | :---         |
-| Palindrome Checker            | [GtiHub](https://github.com/ionescuig/freecodecamp-projects-and-certificates/blob/master/JavaScript%20Algorithms%20and%20Data%20Structures/Palindrome%20Checker/palindrome.js) |  |  |
-| Roman Numeral Converter       |  |  |  |
-| Caesars Cipher                |  |  |  |
-| Telephone Number Validator    |  |  |  |
-| Cash Register                 |  |  |  |
+| Palindrome Checker            | [GitHub](https://github.com/ionescuig/freecodecamp-projects-and-certificates/blob/master/JavaScript%20Algorithms%20and%20Data%20Structures/palindrome.js) | javascript |
+| Roman Numeral Converter       | [GitHub](https://github.com/ionescuig/freecodecamp-projects-and-certificates/blob/master/JavaScript%20Algorithms%20and%20Data%20Structures/roman_numeral_converter.js) | javascript |
+| Caesars Cipher                | [GitHub](https://github.com/ionescuig/freecodecamp-projects-and-certificates/blob/master/JavaScript%20Algorithms%20and%20Data%20Structures/caesars_cipher.js) | javascript |
+| Telephone Number Validator    | [GitHub](https://github.com/ionescuig/freecodecamp-projects-and-certificates/blob/master/JavaScript%20Algorithms%20and%20Data%20Structures/telephone_number_validator.js) | javascript |
+| Cash Register                 | [GitHub](https://github.com/ionescuig/freecodecamp-projects-and-certificates/blob/master/JavaScript%20Algorithms%20and%20Data%20Structures/cash_register.js) | javascript |
 | **[Certificate](https://raw.githubusercontent.com/ionescuig/freecodecamp-projects-and-certificates/master/JavaScript%20Algorithms%20and%20Data%20Structures/freeCodeCamp%20Certificate%20JavaScript%20Algorithms%20and%20Data%20Structures.png)** ||||
 
 
