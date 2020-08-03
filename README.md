@@ -1,11 +1,5 @@
 # FreeCodeCamp - Projects and Certificates
-This repository will combine all projects and certificates in one place.
 
-<br>
-
-*work in progress...*
-
-<hr>
 <br>
 
  ### Responsive Web Design
@@ -33,11 +27,11 @@ This repository will combine all projects and certificates in one place.
  ### Front End Libraries
 | Project Name                  | Live Project                                         | Code                                                | Technologies |
 | :---                          | :--                                                  | :---                                                | :---         |
-| Random Quote Machine          | [CodePen](https://codepen.io/ionescuig/full/abvgBNE) | [CodePen](https://codepen.io/ionescuig/pen/abvgBNE) | *html, css, react*  |
-| Markdown Previewer            | [CodePen](https://codepen.io/ionescuig/full/VwvoZjB) | [CodePen](https://codepen.io/ionescuig/pen/VwvoZjB) | *html, css, react*  |
-| Drum Machine                  | [CodePen](https://codepen.io/ionescuig/full/MWaNrJR) | [CodePen](https://codepen.io/ionescuig/pen/MWaNrJR) | *html, css, react*  |
-| JavaScript Calculator         | [CodePen](https://codepen.io/ionescuig/full/JjGPOqq) | [CodePen](https://codepen.io/ionescuig/pen/JjGPOqq) | *html, scss, react*  |
-| Pomodoro Clock                | [CodePen](https://codepen.io/ionescuig/full/MWKavmm) | [CodePen](https://codepen.io/ionescuig/pen/MWKavmm) | *html, scss, react*  |
+| Random Quote Machine          | [CodePen](https://codepen.io/ionescuig/full/abvgBNE) | [CodePen](https://codepen.io/ionescuig/pen/abvgBNE) | *react, html, css*  |
+| Markdown Previewer            | [CodePen](https://codepen.io/ionescuig/full/VwvoZjB) | [CodePen](https://codepen.io/ionescuig/pen/VwvoZjB) | *react, html, css*  |
+| Drum Machine                  | [CodePen](https://codepen.io/ionescuig/full/MWaNrJR) | [CodePen](https://codepen.io/ionescuig/pen/MWaNrJR) | *react, html, css*  |
+| JavaScript Calculator         | [CodePen](https://codepen.io/ionescuig/full/JjGPOqq) | [CodePen](https://codepen.io/ionescuig/pen/JjGPOqq) | *react, html, scss*  |
+| Pomodoro Clock                | [CodePen](https://codepen.io/ionescuig/full/MWKavmm) | [CodePen](https://codepen.io/ionescuig/pen/MWKavmm) | *react, html, scss*  |
 | **[Certificate](https://raw.githubusercontent.com/ionescuig/freecodecamp-projects-and-certificates/master/Front%20End%20Libraries/freecodecamp%20Certificate%20Front%20End%20Libraries.png)** ||||
 
 
@@ -66,9 +60,9 @@ This repository will combine all projects and certificates in one place.
  ### Quality Assurance
 | Project Name                  | Live Project                                         | Code                                                | Technologies |
 | :---                          | :--                                                  | :---                                                | :---         |
-| Metric-Imperial Converter     |  |  |  |
-| Issue Tracker                 |  |  |  |
-| Personal Library              |  |  |  |
-| Sudoku Solver                 |  |  |  |
-| American British Translator   |  |  |  |
+| Metric-Imperial Converter     | [Glitch](https://gi-fcc-metric-imperial-converter.glitch.me) | [Glitch](https://glitch.com/edit/#!/gi-fcc-metric-imperial-converter) | *node.js*  |
+| Issue Tracker                 | [Glitch](https://gi-fcc-issue-tracker.glitch.me) | [Glitch](https://glitch.com/edit/#!/gi-fcc-issue-tracker) | *node.js, mongodb, mongoose*  |
+| Personal Library              | [Glitch](https://gi-fcc-personal-library.glitch.me) | [Glitch](https://glitch.com/edit/#!/gi-fcc-personal-library) | *node.js, mongodb, mongoose*  |
+| Sudoku Solver                 | [Glitch](https://gi-fcc-sudoku-solver.glitch.me) | [Glitch](https://glitch.com/edit/#!/gi-fcc-sudoku-solver) | *node.js*  |
+| American British Translator   | [Glitch](https://gi-fcc-american-british-translator.glitch.me) | [Glitch](https://glitch.com/edit/#!/gi-fcc-american-british-translator) | *node.js*  |
 | **[Certificate](https://raw.githubusercontent.com/ionescuig/freecodecamp-projects-and-certificates/master/Quality%20Assurance/freecodecamp%20Certificate%20Quality%20Assurance.png)** ||||
