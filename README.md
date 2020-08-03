@@ -55,11 +55,11 @@ This repository will combine all projects and certificates in one place.
  ### APIs and Microservices
 | Project Name                       | Live Project                                         | Code                                                | Technologies |
 | :---                               | :--                                                  | :---                                                | :---         |
-| Timestamp Microservice             |  |  |  |
-| Request Header Parser Microservice |  |  |  |
-| URL Shortener Microservice         |  |  |  |
-| Exercise Tracker                   |  |  |  |
-| File Metadata Microservice         |  |  |  |
+| Timestamp Microservice             | [Glitch](https://gi-fcc-timestamp-microservice.glitch.me) | [Glitch](https://glitch.com/edit/#!/gi-fcc-timestamp-microservice) | *node.js*  |
+| Request Header Parser Microservice | [Glitch](https://gi-fcc-request-header-parser-microservice.glitch.me) | [Glitch](https://glitch.com/edit/#!/gi-fcc-request-header-parser-microservice) | *node.js*  |
+| URL Shortener Microservice         | [Glitch](https://gi-fcc-url-shortener-microservice.glitch.me) | [Glitch](https://glitch.com/edit/#!/gi-fcc-url-shortener-microservice) | *node.js, mongodb, mongoose*  |
+| Exercise Tracker                   | [Glitch](https://ionescuig-fcc-exercise-tracker.glitch.me) | [Glitch](https://glitch.com/edit/#!/ionescuig-fcc-exercise-tracker) | *node.js, mongoose*  |
+| File Metadata Microservice         | [Glitch](https://ionescuig-file-metadata-microservice.glitch.me) | [Glitch](https://glitch.com/edit/#!/ionescuig-file-metadata-microservice) | *node.js, aws-sdk*  |
 | **[Certificate](https://raw.githubusercontent.com/ionescuig/freecodecamp-projects-and-certificates/master/APIs%20and%20Microservices/freeCodeCamp%20Certificate%20APIs%20and%20Microservices.png)** ||||
 
 
