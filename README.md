@@ -44,11 +44,11 @@ This repository will combine all projects and certificates in one place.
  ### Data Visualization
 | Project Name                  | Live Project                                         | Code                                                | Technologies |
 | :---                          | :--                                                  | :---                                                | :---         |
-| Bar Chart                     |  |  |  |
-| Scatterplot Graph             |  |  |  |
-| Heat Map                      |  |  |  |
-| Choropleth Map                |  |  |  |
-| Treemap Diagram               |  |  |  |
+| Bar Chart                     | [CodePen](https://codepen.io/ionescuig/full/vYLXXQd) | [CodePen](https://codepen.io/ionescuig/pen/vYLXXQd) | *d3.js, scss*  |
+| Scatterplot Graph             | [CodePen](https://codepen.io/ionescuig/full/YzwpeqY) | [CodePen](https://codepen.io/ionescuig/pen/YzwpeqY) | *d3.js, scss*  |
+| Heat Map                      | [CodePen](https://codepen.io/ionescuig/full/pogedpb) | [CodePen](https://codepen.io/ionescuig/pen/pogedpb) | *d3.js, scss*  |
+| Choropleth Map                | [CodePen](https://codepen.io/ionescuig/full/mdVwvgm) | [CodePen](https://codepen.io/ionescuig/pen/mdVwvgm) | *d3.js, scss*  |
+| Treemap Diagram               | [CodePen](https://codepen.io/ionescuig/full/ExPwazQ) | [CodePen](https://codepen.io/ionescuig/pen/ExPwazQ) | *d3.js, scss*  |
 | **[Certificate](https://raw.githubusercontent.com/ionescuig/freecodecamp-projects-and-certificates/master/Data%20Visualization/freeCode%20Camp%20Certificate%20Data%20Visualization.png)** ||||
 
 
