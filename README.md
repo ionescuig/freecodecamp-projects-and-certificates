@@ -22,7 +22,7 @@ This repository will combine all projects and certificates in one place.
  ### JavaScript Algorithms and Data Structures
 | Project Name                  | Live Project                                         | Code                                                | Technologies |
 | :---                          | :--                                                  | :---                                                | :---         |
-| Palindrome Checker            |  |  |  |
+| Palindrome Checker            | [GtiHub](https://github.com/ionescuig/freecodecamp-projects-and-certificates/blob/master/JavaScript%20Algorithms%20and%20Data%20Structures/Palindrome%20Checker/palindrome.js) |  |  |
 | Roman Numeral Converter       |  |  |  |
 | Caesars Cipher                |  |  |  |
 | Telephone Number Validator    |  |  |  |
